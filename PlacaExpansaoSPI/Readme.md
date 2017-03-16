@@ -1,1 +1,0 @@
-Placa de expansão com comunicação através de algum módulo com conexão SPI, como transdutores CAN ou rádio CC1101
